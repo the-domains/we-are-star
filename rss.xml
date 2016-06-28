@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[We Are Star]]></title>
         <description><![CDATA[We Are Star]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/we-are-star/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 11:29:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 11:38:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/we-are-star/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home | Brama - Agency HTML5/CSS3 Template]]></title>
+            <description><![CDATA[<article><h1>Home | Brama - Agency HTML5/CSS3 Template</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5245beb59f72d9fac7c1837187441788/croprotate.jpg?cropheight=1299&cropwidth=2200&degrees=0&input=http%3A%2F%2Fthemes.evgenyfireform.com%2Fbrama%2Fdemo%2Fassets%2Fimg%2Fslides%2Fslide-1.jpg&x=0&y=0"></article>]]></description>
+            <link>http://themes.evgenyfireform.com/brama/demo/</link>
+            <guid isPermaLink="false">4e51cc64-b0a4-443e-bbd8-a5102d09e52d</guid>
+            <pubDate>Tue, 28 Jun 2016 11:38:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Avoid These 6 Mistakes When Developing An App - Openxcell]]></title>
             <description><![CDATA[<article><h1>Avoid These 6 Mistakes When Developing An App - Openxcell</h1><p>If you are into app development, you need to be careful about a few things. App development involves controlling scope, budget issues and handling a lot of resources like designers, developers, analysts, testers, and technical writers amongst a hundred other things.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9902a01358e6aab1ab381fd39eca1f57/noop.jpg?input=http%3A%2F%2Fwww.openxcell.com%2Fwp-content%2Fuploads%2F2015%2F12%2FAvoid-these-6-mistakes-when-developing-an-app.jpg"></article>]]></description>
